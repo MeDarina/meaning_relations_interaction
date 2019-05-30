@@ -1,0 +1,521 @@
+Pair ID	Sentence 1	Sentence 2	FWD Ent	FWD Ent Agr	BCW Ent	BCW Ent Agr	Cont	Cont Agr	FWD Spec	FWD Spec Agr	BCW Spec	BCW Spec Agr	Sim	Sim Agr	PP	PP Agr
+0	The country has no impact on girls' school education.	In order to understand the bible it is important to learn French.	0	1	0	1	0	1	0	0.9	0	0.6	0	0	0	1
+2	Compared to boys, girls have a lower chance of getting a good school education in many countries.	Women are often disadvantaged regarding education.	1	1	1	0.7	0	1	1	0.9	0	1	3.4	1.2	1	0.9
+4	All Christian priests need to study Persian, as the Bible is written in Ancient Greek.	Christian clergymen don't read the bible.	0	1	0	1	0	0.6	1	0.9	0	1	0.9	0.83	0	1
+6	Clergymen never read the bible	Christian clergymen learn Greek to read the bible.	0	1	0	1	1	0.9	0	1	1	0.6	1.3	0.78	0	1
+8	Strategic games can only be played by humans.	Strategic games are too difficult for computers.	0	0.5	1	0.7	0	1	0	0.5	0	1	3.3	1	0	0.5
+10	Humans drink.	Self-driving cars can be compared to humans.	0	1	0	1	0	1	0	0.9	1	0.8	0.5	0.92	0	1
+12	The Bible is not a sacred book to Christians.	The original Bible is in Latin.	0	1	0	1	0	1	0	0.5	0	0.9	0.6	0.8	0	1
+14	It is always a plus to have learned to use modern technologies whatever job you do.	A job without technology is a bad job.	0	0.9	0	0.9	0	0.9	1	0.8	0	0.9	2.2	0.98	0	0.9
+16	Life gets harder if information is available faster.	There are several modern virtual assistants.	0	1	0	1	0	0.9	0	0.6	0	0.6	0.6	1.28	0	1
+18	Modern education has no use for technology.	Education does not benefit from new technology.	1	0.9	1	0.6	0	1	0	0.8	0	0.9	3.6	1.5	1	0.9
+20	University students are likely to have a good salary after they graduate.	The job market is more competitive in big cities	0	1	0	1	0	1	1	0.7	0	1	0.67	0.82	0	1
+22	Technology may be the most important part of education today.	Adding technology has improved modern education.	1	0.6	0	0.5	0	1	0	0.6	0	0.8	3.6	0.8	1	0.6
+24	Computers can play games.	Strategy games are less about fun and more about logic.	0	1	0	1	0	1	0	1	1	0.8	1	1.18	0	1
+26	Humans who drink are the safest ones.	Self-driving cars drink alcohol like humans.	0	0.9	0	0.9	0	1	0	1	0	0.7	0.8	0.98	0	1
+28	new technologies are not required to get a good job	People who can't use modern technologies are less desirable employees.	0	1	0	1	1	0.7	0	1	1	0.8	1.27	0.86	0	1
+30	Going to school isolates children.	School years are the period when kids learn how to socialize.	0	1	0	1	1	0.8	0	0.9	1	0.9	0.73	0.75	0	1
+32	Reading the Bible requires studying Latin.	The Bible is written in Latin.	1	0.9	1	0.9	0	1	1	0.9	0	0.8	3.6	0.92	0	0.6
+34	Only in small cities, a high educational degree is important for finding a good job.	Getting a high educational degree has no influence on finding a good job in big cities.	1	0.6	0	0.6	0	0.6	0	0.8	0	0.9	3.4	1.28	1	0.6
+36	Technology and digitalization have become an indispensable part of our modern culture.	Technology is useful in teaching and educating.	0	0.7	0	0.7	0	1	1	0.8	0	0.9	2.9	1.37	0	0.7
+38	Technology is useful in teaching and educating.	Technology is very often part of today's education.	1	0.6	0	0.5	0	1	0	0.5	0	0.9	4.2	0.6	1	1
+40	Finding a good job is easier for people speaking more than one language.	The more languages you speak fluently, the easier it becomes to find a well-paid and exciting job.	1	0.8	1	1	0	1	0	1	1	0.8	4.3	0.46	1	1
+42	People who don't drink are safer drivers.	Drunk drivers are dangerous while self-driving cars are safe	0	0.8	1	0.6	0	0.9	0	1	1	0.9	3.2	0.6	0	0.6
+44	Kids can be left at home to learn about social interaction.	Children who go to school are less socialized.	0	0.7	0	0.8	0	0.9	0	0.5	0	0.9	2.6	1.2	0	0.8
+46	A car driven by a human is safer than a self-driving car.	Humans can drink and drive	0	0.9	0	0.9	0	0.9	1	0.7	0	0.9	1	0.63	0	1
+48	Life is enhanced by learning a second language.	Being able to communicate in more than one language has advantages.	1	0.9	1	0.7	0	0.9	0	0.8	1	0.6	4	1.18	1	1
+50	If people cannot afford to travel or are not interested in visiting new countries, they might never be able to speak the language with native speakers.	Learning a second language won't get you anywhere in life.	0	0.9	0	1	0	0.8	1	0.8	0	1	1.4	1.2	0	1
+52	Alexa makes access to information slower.	With Siri, Alexa and Cortana searching for data is impossible.	0	0.9	0	0.6	0	0.8	0	0.9	1	0.9	2.67	1.15	0	0.8
+54	Asocial behaviour is strengthened by new technologies.	Without human interaction an asocial behavior is formed, usage of new technologies is one leading example to such behavior	0	0.5	1	0.8	0	1	0	1	1	0.9	4.2	0.87	1	0.9
+56	Human-computer communication is getting better.	People can connect easily with the help of machines	0	0.5	0	0.8	0	1	1	0.6	0	0.7	2.7	1.19	0	0.8
+58	Many countries provide good education to everyone.	Education is a theoretical concept, which is never implemented in reality.	0	1	0	1	0	0.8	0	1	1	0.8	1.3	1.35	0	1
+60	Machines can't communicate.	With Cortana, Alexa or Siri computers learn to communicate with.	0	1	0	1	1	1	0	0.9	1	0.8	1	1.48	0	1
+62	School makes students antisocial	School usually prevents children from socializing properly.	1	0.9	1	0.9	0	1	0	0.9	1	0.7	3.9	1.37	1	1
+64	A second language is important in a resume.	Languages are important for work.	1	0.8	1	0.6	0	1	1	1	0	0.9	3.7	0.78	1	1
+66	Adding technology has improved modern education.	Technology is a very important element of educational programs today.	1	0.6	1	0.7	0	1	0	1	1	0.7	3.8	0.98	1	0.9
+68	Computers can interact with humans.	Machines communicate.	1	0.8	1	0.6	0	1	1	0.9	0	1	2.5	1.02	1	0.6
+70	Cortana, Alexa and Siri are famous and known by everybody, because they are names of famous people.	Cortana does not understand simple tasks.	0	1	0	1	0	1	1	0.8	0	0.9	0.6	0.66	0	1
+72	It is harder for girls to get good school education	Boys get better education than girls.	1	0.7	0	0.5	0	1	0	0.7	0	0.8	2.9	1.04	1	0.7
+74	Everyday life is hard to achieve even with technology	New apps and modern technology cannot provide you with the information you need.	0	1	0	0.9	0	1	0	1	1	0.7	2.2	1.6	0	0.7
+76	Reading newspapers is important to find a new good job	Not knowing how to use a smartphone makes you less attractive for employers.	0	1	0	1	0	1	0	1	1	0.7	0.8	1.25	0	1
+78	Current education does not need digitalization.	Modern education consists of many parts.	0	0.9	0	1	0	1	1	0.6	0	1	0.8	0.87	0	1
+80	Human drivers are less reliable than self-driving cars.	Autonomous cars improve safety due to lack of alcohol dependence.	0	0.9	1	0.7	0	1	0	0.9	1	0.7	2.8	1.47	0	0.7
+82	Christian clergymen gain some knowledge of Latin.	The Bible was originally written in Latin.	0	0.9	1	0.6	0	1	1	0.7	0	0.6	1.9	0.83	0	0.9
+84	You will receive no benefit if you learn a second language.	Knowing another language can bring you into very dangerous and unpleasant situations.	0	0.7	0	0.6	0	1	0	1	1	0.7	3.1	0.94	0	0.6
+86	In contrast to boys, girls seem to have great difficulties in getting high educational degrees.	Boys are more likely to get a good school education than girls.	1	0.9	1	0.8	0	1	1	0.7	0	1	3.2	1.4	1	0.7
+88	Machines can play chess.	Computers can play games.	1	0.9	1	0.7	0	1	0	0.7	0	0.7	4.5	0.81	1	0.7
+90	It is possible to speak more than one language.	Someone with the knowledge of a second language may benefit more than someone with no such knowledge in life.	0	0.7	0	0.5	0	1	0	1	1	0.8	1.6	0.92	0	0.9
+92	Modern assistants like Alexa or Siri make it harder to access information.	Alexa makes access to information slower.	1	0.6	1	0.7	0	1	1	0.9	0	1	3.6	0.8	0	0.5
+94	Cortana, Alexa and Siri are modern assistants.	Education nowadays relays on modern technology.	0	1	0	0.8	0	1	1	0.9	0	0.9	0.8	0.75	0	1
+96	Lack of face to face social interactions may cause asocial behavior.	If people used more technological innovations, they would soon be better people.	0	1	0	1	0	0.7	0	0.8	0	0.5	0.7	0.9	0	1
+98	Better job opportunities do not depend on digital literacy.	Good jobs can be found without the use of modern technology.	1	0.9	1	0.7	0	1	0	0.8	0	0.5	3.5	1.36	1	1
+100	Speaking different languages does not qualify for jobs.	Unemployment rates among multilinguals are lower than those able to speak only a single language.	0	1	0	1	1	0.7	0	1	1	0.9	2.1	1.3	0	0.9
+102	Computer systems are extremely good at playing sport games.	Chess and Go are strategic games.	0	1	0	1	0	1	0	0.6	0	0.5	0.3	0.64	0	1
+104	Communication between people and machines can work well.	Evaluations of some of the currently existing chatbots show that they are doing well in leading conversations with people.	0	0.5	1	0.8	0	1	0	0.9	1	0.9	3	1.67	1	0.7
+106	Quicker Access to information makes life worse.	Modern assistants such as Cortana, Alexa, or Siri speed up accessing to information.	0	0.9	0	1	0	0.9	0	1	1	0.9	1.2	0.6	0	1
+108	It is harder to find a good job in big cities.	Having a high educational degree is influential in finding a good job in a big city.	0	0.9	0	0.8	0	0.9	0	1	1	1	2	1.41	0	0.8
+110	A lower educational degree will make it easier to find a job.	We can now access more information promptly by using assistants like Siri, Alexa or Cortana.	0	1	0	0.9	0	1	0	1	1	0.9	0.7	1.55	0	1
+112	University degrees provide better opportunities for professional realization in urban areas.	A college degree is advisable when looking for a job in a highly competitive market.	1	0.6	1	0.7	0	1	1	0.6	0	0.8	3.4	1.43	1	0.9
+114	Good jobs can be easily found without educational degrees.	Modern technology facilitates our life styles.	0	1	0	0.9	0	1	1	0.7	0	0.8	0.2	0.6	0	1
+116	Humans can never interact with computers.	Computers fail to communicate with children.	1	0.7	0	0.7	0	0.9	0	0.9	0	0.7	3.6	1.02	0	0.6
+118	Good jobs can be easily found without educational degrees.	Good education helps to get a good job.	0	0.9	0	0.9	1	0.9	0	0.6	0	0.9	1.3	1.19	0	0.9
+120	Latin in not used nowadays	Latin can't be learned.	0	1	1	0.6	0	0.9	0	0.6	0	0.9	1.6	1.36	0	0.9
+122	If you know Latin, you can read the bible.	Some priests read the bible in Latin	0	0.7	1	0.8	0	1	1	0.6	0	0.8	2.7	1.42	0	0.7
+124	Your educational level has an impact on your job opportunities.	Having a high level educational degree helps finding a good job.	1	1	1	1	0	1	0	0.8	1	0.6	4.2	0.6	1	0.9
+126	In many countries, boys are more likely to get a good school education than girls.	Girls get education in other countries.	0	0.5	0	0.9	0	0.8	1	0.9	0	1	1.5	1.2	0	1
+128	Today no one studies Latin.	Latin is not needed to read the Bible.	0	0.9	0	0.9	0	1	0	0.8	1	0.7	0.8	0.6	0	1
+130	You don't have to know anything for technology to do any job.	Reading newspapers is important to find a new good job	0	0.9	0	0.9	0	0.9	0	0.6	1	0.7	1.6	1.43	0	0.9
+132	Drinking does not influence driver safety.	A car driven by a human is safer than a self-driving car.	0	1	0	1	0	0.9	0	0.8	0	0.5	1	0.89	0	0.9
+134	Social behavior is learned at school.	School is a place where children learn how to become sociable with other individuals.	1	1	1	0.9	0	1	0	1	1	0.9	4.7	0.46	1	1
+136	Face-to-face social interaction is important to avoid any asocial behavior issues which could be caused by new technologies	Asocial behaviour is strengthened by new technologies.	0	0.5	0	0.6	0	1	1	0.9	0	1	3.3	1.55	1	0.8
+138	Virtual assistants help us find what we need.	There are modern automatic assistants who now can give us quicker access to information.	1	0.6	1	0.7	0	1	0	0.7	1	1	4.5	0.5	1	1
+140	Being able to communicate in more than one language has advantages.	Speaking more than one language can be useful.	1	1	1	1	0	1	1	0.6	0	1	4.8	0.4	1	1
+142	Computers do not know how to play Go	It is easy for machines to come up with strategies in games.	0	1	0	1	0	0.6	1	0.6	0	0.6	1	1.18	0	1
+144	High paying jobs do not require the use of modern technologies	One can find a good job without any knowledge of using modern technologies.	1	0.7	1	0.7	0	1	0	0.8	0	0.7	3.7	1.1	1	1
+146	In many countries, boys are less likely to get a good school education.	Boys are more likely to get a good school education than girls.	0	1	0	1	1	0.7	0	0.6	0	1	1.8	1.6	0	0.9
+148	Machines cannot interact with humans.	No machine can communicate with a person.	1	1	1	0.9	0	1	0	0.9	0	0.8	4.9	0.3	1	0.9
+150	People are getting socialized by smartphones and social media platforms.	Lack of face to face social interactions may cause asocial behavior.	0	0.9	0	0.9	1	0.7	0	0.5	0	0.8	1.1	1.37	0	0.8
+152	Speaking more than one language is imperative today.	There is more than one language.	1	0.7	0	0.9	0	1	1	1	0	1	1.7	1.42	0	0.9
+154	The country has no impact on girls' school education.	Girls and boys chances in getting a good school education is not equal in many countries.	0	1	0	1	1	0.8	0	0.9	1	0.7	1.9	1.3	0	0.9
+156	Children who go to school are more socialized.	Attending school enables children to learn how to interact with others.	1	0.8	1	0.7	0	0.9	0	1	1	0.9	4.1	0.94	1	1
+158	Fast access to information makes everyday tasks easier	Not having a smartphone with a personal assistant will waste hours upon hours of human lives on information gathering.	0	0.8	0	0.5	0	1	0	0.9	1	1	1.9	1.14	1	0.8
+160	Christian clergymen don't need to read the Bible.	Clergymen never read the bible	0	0.7	1	0.7	0	0.8	1	0.6	0	1	3.9	0.7	0	0.8
+162	Chess and Go are strategic games.	Computers successfully play strategic games.	0	1	0	1	0	1	1	0.7	0	0.8	1.1	0.54	0	1
+164	Modern education does not deal with technology at all.	Modern education has no use for technology.	1	0.6	1	0.6	0	1	1	0.7	0	0.9	4.1	0.54	1	0.8
+166	Humans are more reliable than self-driving cars.	Driverless cars do not consume alcohol which in turn makes them much safer than normal drivers.	0	0.9	0	1	1	0.9	0	1	1	0.8	2	1.41	0	1
+168	Good jobs require you to speak more than one language.	People speaking more than one language can find better jobs.	1	1	0	0.5	0	1	0	0.7	0	0.8	4.5	0.67	1	1
+170	All Christian priests learn Arabic, in order to be able to read the Bible.	Today no one studies Latin.	0	1	0	0.8	0	1	1	0.7	0	1	0.3	0.46	0	1
+172	Skills in using modern technologies are often included in the nowadays job descriptions.	Professional realization depends heavily on computer literacy.	1	0.6	1	0.7	0	1	1	0.6	0	0.6	3.1	1.58	0	0.6
+174	Today's information flow is greatly facilitated by digital assistants.	Quicker access to information makes our life easier.	0	0.9	0	0.7	0	1	1	0.7	0	0.9	1.8	1.33	0	0.8
+176	Learning more than one language takes a considerable amount of time and prevents you from doing other useful activities.	Finding a good job is not related with the languages spoken by the job seeker	0	1	0	1	0	1	1	0.8	0	1	1.2	1.08	0	1
+178	Our everyday life is hard because of lacking information.	We can now access more information promptly by using assistants like Siri, Alexa or Cortana.	0	1	0	1	0	0.6	0	1	1	0.8	1.9	1.22	0	1
+180	Car incidents decrease when using autonomous cars.	Human drinking in general makes the driving dangerous.	0	0.9	0	0.8	0	1	0	0.6	0	0.7	1.9	1.3	0	0.8
+182	People never drink.	The biggest innovation in autonomous vehicle safety was the invention of a drunk driving mode, simulating the behavior of drunk human drivers.	0	1	0	1	0	0.5	0	1	1	0.9	0.6	0.66	0	1
+184	People who cannot use modern technologies find good jobs.	All good jobs require the use of modern technologies.	0	1	0	0.8	1	1	0	0.7	0	0.9	1.56	1.34	0	0.9
+186	The Bible was originally written in Latin.	Christian clergymen read the Bible.	0	0.9	0	1	0	1	0	0.6	0	1	1.2	0.87	0	1
+188	Christian clergymen learn Latin only to communicate with each other.	There is a bible.	0	1	0	1	0	1	1	0.9	0	0.9	0.1	0.3	0	1
+190	There is a bible.	Bible is in Latin.	0	0.8	1	0.7	0	1	0	1	1	0.7	1.7	0.9	0	1
+192	Modern technologies are used for job-hunting.	You can't find a good job, if you can't use modern technologies.	0	0.7	1	0.6	0	1	0	1	1	0.6	3.9	1.22	0	0.6
+194	Speaking different languages does not qualify for jobs.	Knowing more languages is prohibitive when looking for a job.	0	0.7	0	0.5	0	0.9	0	0.8	1	0.7	3.1	1.3	0	0.7
+196	New technologies lead to less communication and human interactions.	When we use new technologies we forget some of the skills, which we previously learned from interacting with people.	0	0.7	0	0.5	0	1	0	0.9	1	1	3.11	1.66	1	0.7
+198	You cannot find a good job if you do not know how to use modern technologies.	Knowing how to use modern technologies is essential for finding a good job.	1	0.8	1	0.8	0	0.9	0	0.8	0	0.6	4.6	0.49	1	1
+200	Modern education covers technology.	Technology is a part of modern education.	1	1	1	1	0	1	0	0.9	0	0.6	4.2	0.98	1	0.9
+202	Lack of social interaction leads to asocial behavior.	Women are always better educated than men.	0	1	0	1	0	1	0	0.8	0	0.7	0.4	0.92	0	1
+204	Girls are educated as well as boys.	Today, girls have better access to education than ever before.	0	0.7	0	0.6	0	1	0	0.9	1	0.8	3.1	0.83	0	0.8
+206	Games can be played by machines.	Machines are good at many tasks including playing strategic games	1	0.7	1	0.9	0	1	0	0.9	1	0.9	3.6	1.2	1	0.9
+208	Technology is central to modern education.	Computers are important for education	1	0.7	1	0.7	0	1	0	0.6	0	0.8	3.5	1.43	1	0.9
+210	Machines cannot play strategic games.	There are computer programs developed to play strategic games.	0	1	0	1	1	0.8	0	0.9	1	0.6	0.56	0.68	0	1
+212	Big cities are less competitive than other places.	A high educational degree doesn't find you a good job.	0	1	0	1	0	1	0	0.9	0	0.5	0.2	0.4	0	1
+214	Kids interact in schools with other kids.	Kids who do not go to school risk not to develop social skills.	0	0.5	0	0.7	0	0.9	0	0.9	1	0.6	2.73	0.96	0	0.7
+216	Technology is a requirement for some jobs.	People who are able to deal with modern technology have more chances of getting a well-paid job than others.	0	0.5	1	0.7	0	1	0	0.9	1	0.7	3.5	1.12	0	0.6
+218	Pupils do not need to learn about technology in order to receive a good education.	Education does not benefit from new technology.	0	0.7	1	0.6	0	1	1	0.9	0	1	3.9	1.58	0	0.5
+220	No machine can communicate with a person.	When humans try to communicate with machines, they are often misunderstood.	0	0.6	0	0.9	0	0.6	0	0.9	1	0.9	3.2	1.08	0	0.9
+222	People using new technologies interact less face-to-face.	Ubiquitous virtual reality will further increase people's asocial tendencies.	1	0.7	0	0.6	0	1	0	0.9	1	0.6	2.9	1.76	1	0.6
+224	Acquiring new languages has a variety of advantages.	Bilingual people are more successful than monolingual people.	1	0.7	1	0.7	0	1	0	0.9	1	0.9	3.4	0.92	1	0.7
+226	Modern education relies heavily on technology.	Modern assistances provide fast access to information therefore providing an easier life	0	0.9	0	0.9	0	1	0	1	1	0.8	2.3	1.49	0	0.8
+228	Languages are very useful.	Acquiring new languages has a variety of advantages.	1	0.9	1	0.8	0	1	0	1	1	0.8	4.1	1.04	1	0.9
+230	You can't benefit from speaking a second language.	Learning languages is useless.	1	0.85	1	1	0	0.9	1	0.65	0	1	4.45	0.67	1	0.8
+231	Learning languages is useless.	You can't benefit from speaking a second language.	1	1	1	0.85	0	0.9	0	1	1	0.65	4.45	0.67	1	0.8
+232	Machines are good in communicating.	There are machines that are able to communicate with people.	1	0.7	1	0.6	0	1	0	1	1	0.9	4	0.63	1	0.8
+234	Asocial behavior is completely unrelated to using modern technologies.	In the past, people talked more to each other and were nicer to each other.	0	1	0	1	0	1	0	0.6	0	0.5	1	1.28	0	1
+236	New technologies make people more miserable.	With the advancement of technology, people are able to find information more easily.	0	1	0	0.9	0	0.7	0	1	1	0.6	0.9	1.45	0	1
+238	Clergymen learn a dead language to read the bible.	Latin is one way of reading the bible	0	0.7	0	0.7	0	1	1	0.7	0	0.7	2.1	1.22	0	0.6
+240	Knowing more languages is beneficial when looking for a job	People who speak several languages are hired more easily	1	0.8	1	1	0	1	0	0.9	0	0.6	4.64	0.48	1	1
+242	Everyday life is made easier because information is easily accessible.	I use Alexa every day because it helps me with my house work.	0	0.8	0	0.6	0	1	0	0.8	1	0.8	1.8	1.25	0	0.8
+244	The original Bible is in Latin.	Christians read the bible.	0	1	0	1	0	1	0	0.7	0	1	1.8	1.17	0	1
+246	Modern technologies facilitate finding good jobs	Knowing how to use the new technical opportunities is important when you want to find the job you like.	0	0.6	1	0.9	0	1	0	0.8	1	1	4.2	0.6	1	0.7
+248	Go and chess are the only examples of card games, which are not strategic.	Machines can play chess.	0	0.9	0	1	0	1	1	0.6	0	0.9	0.9	0.94	0	1
+250	Daily life is easier in foreign countries if you had a multilingual education.	The advantages of two spoken languages are great.	1	0.6	0	0.6	0	1	1	1	0	1	3.2	0.98	0	0.6
+252	Technology is not mandatory to improve education	Technology is useful in teaching and educating.	0	0.8	0	0.8	0	0.7	0	1	0	0.6	1.7	1.62	0	0.9
+254	University diplomas are unnecessary for good professional realization.	You can't find a good job in a big city without a high educational degree.	0	1	0	1	1	0.9	0	0.6	0	0.8	1	0.89	0	0.8
+256	Life can be greatly improved by speaking foreign languages.	More languages you know ' better it is.	1	1	1	0.8	0	1	1	0.7	0	0.9	4.1	0.7	1	0.9
+258	You don't have to know anything for technology to do any job.	It is necessary to use computers to find a job.	0	0.9	0	1	1	0.8	0	0.8	0	0.8	1.2	0.87	0	1
+260	Many girls worldwide are provided with only basic schooling	In many countries, boys are more likely to get a good school education than girls.	1	0.6	1	0.6	0	1	0	0.9	1	0.9	2.7	1.1	1	0.6
+262	Machines can perform well in communication.	Humans understand computers easily	0	0.9	1	0.6	0	1	1	0.6	0	0.9	2.2	1.08	0	0.9
+264	Jobs in big cities request statistically higher degrees than in rural cities.	People won't find any work in metropolitan areas.	0	1	0	0.8	0	0.8	1	1	0	1	1.1	1.3	0	0.9
+266	To find a good job, it is beneficial to speak a second language.	Good jobs may require more than one language.	1	0.8	1	1	0	1	1	0.8	0	0.9	4.7	0.46	1	1
+268	Technology and digitalization have become an indispensable part of our modern culture.	Siri takes too long to answer a question.	0	1	0	1	0	1	0	0.5	0	0.9	0.2	0.4	0	1
+270	Some one who speaks more than one language has a hard time finding a job because of it.	The knowledge of more languages raises your hirability.	0	1	0	0.8	1	0.9	1	0.6	0	0.9	1.2	1.25	0	0.9
+272	Chess and Go are strategic games.	Computers are good at Stratego.	0	0.95	0	1	0	1	1	0.75	0	0.9	1	1.18	0	1
+273	Computers are good at Stratego.	Chess and Go are strategic games.	0	1	0	0.95	0	1	0	0.9	1	0.75	1	1.18	0	1
+274	Chess and go are city-building games.	Machines are good at devising strategies.	0	1	0	1	0	1	0	0.7	0	0.9	0.4	0.92	0	1
+276	Some children know Latin.	The bible is in Latin.	0	1	0	0.9	0	1	0	0.9	1	0.6	0.9	0.7	0	1
+278	All Christian priests need to study Persian, as the Bible is written in Ancient Greek.	Many Christians read a Latin bible.	0	1	0	1	0	0.7	1	0.9	0	1	1.4	1.02	0	1
+280	Children's social skills improve when attending school.	Kids who go to school get more social by interacting with their colleagues	1	0.8	1	0.9	0	1	0	1	1	1	4.4	0.66	1	0.9
+282	Use of new technologies leads to less face-to-face social interactions.	People using new technologies interact less face-to-face.	1	1	1	0.9	0	1	0	0.5	0	0.8	4.5	0.67	1	0.9
+284	Boys are lucky to get good education.	Compared to boys, girls have a lower chance of getting a good school education in many countries.	0	0.5	0	0.9	0	0.8	0	1	1	0.9	2.56	1.26	0	0.7
+286	Computers successfully play strategic games.	It is difficult to beat a machine on a strategic game.	1	0.7	1	1	0	1	0	0.5	0	0.5	3.9	0.94	0	0.5
+288	Some pastors speak multiple languages.	If you want to understand the Bible properly, you need to learn Latin.	0	0.9	0	0.6	0	1	0	1	1	0.8	1.4	1.28	0	1
+290	Getting better job opportunities is based on speaking foreign languages.	It is harder to find a good job if you only speak one language.	1	0.7	1	0.7	0	1	0	0.5	0	0.6	3.9	0.7	1	0.9
+292	Boys and girls get equally good school educations.	Girls have better educational opportunities everywhere.	0	0.9	0	1	1	0.8	0	0.5	0	0.9	1.8	1.4	0	1
+294	You can find a good job if you only speak one language.	People who speak more than one language could only land pretty bad jobs.	0	0.6	1	0.6	0	0.8	0	0.8	0	0.6	2.3	1.68	0	0.7
+296	Girls get education in other countries.	Christian clergymen read the bible in English	0	1	0	1	0	1	0	0.9	1	0.6	0	0	0	1
+298	Male Christian clerics have to learn Latin in order to understand the Bible.	Some pastors speak multiple languages.	1	0.7	0	0.8	0	1	1	0.9	0	1	2.4	1.02	0	0.9
+300	Your educational level has an impact on your job opportunities.	Adding technology has improved modern education.	0	0.9	0	0.7	0	1	0	0.5	0	0.9	1	0.89	0	1
+302	Cortana, Alexa and Siri are famous and known by everybody, because they are names of famous people.	Alexa and Cortana are means of fast access to information.	0	0.9	0	0.9	0	1	1	0.7	0	0.6	1.7	1.1	0	1
+304	Digitalization improves social behavior by better chances for face-to-face communication.	Lack of social interaction leads to asocial behavior.	0	1	0	0.8	0	0.9	1	0.9	0	1	1.9	1.45	0	0.9
+306	Some strategic games can be played against a computer.	Chess and Go are strategic games.	0	0.95	0	1	0	1	0	0.7	1	0.65	2.1	1.26	0	0.9
+307	Chess and Go are strategic games.	Some strategic games can be played against a computer.	0	1	0	0.95	0	1	1	0.65	0	0.7	2.1	1.26	0	0.9
+308	Self-driving cars don't drink.	Self-driving cars don't consume alcohol, therefore they are more reliable than human drivers.	0	0.5	1	1	0	1	0	1	1	1	3.7	1.1	1	0.8
+310	Modern educations has many important components.	Studying technology is a main part of education nowadays.	0	0.6	0	0.9	0	1	0	1	1	0.7	2.1	1.04	0	0.8
+312	Modern technological virtual assistants are created in order to create difficulties when you are trying to find answers to your questions.	Modern assistances provide fast access to information therefore providing an easier life	0	0.8	0	0.8	1	0.7	1	0.8	0	1	2.3	1.35	0	1
+314	High education is not important in big cities.	Larger cities attract people with only minimal education.	0	0.8	0	0.5	0	1	0	1	1	0.7	2.7	1.42	1	0.7
+316	The positive side of Alexa is that it gives faster access to information.	Today's information flow is greatly facilitated by digital assistants.	1	0.6	1	0.6	0	1	1	0.6	0	0.9	3.6	1.28	1	0.7
+318	Girls have better educational opportunities everywhere.	Women receive equal education quality to men around the world.	0	0.7	0	0.9	1	0.6	0	1	1	0.6	2.8	1.08	0	1
+320	Big cities are less competitive than other places.	A college degree is advisable when looking for a job in a highly competitive market.	0	0.9	0	1	0	1	0	1	1	0.7	1.1	0.94	0	1
+322	Children who go to school are less socialized.	If you want your kid to be socialized, don't send him to school!	1	0.6	1	0.8	0	0.9	0	0.6	1	0.6	3.91	1.44	1	0.8
+324	People learning a second language benefit from that ability	One can learn a second language.	1	0.7	0	0.9	0	1	1	1	0	1	2.6	1.11	0	0.9
+326	Good work can be found no matter the applicants' education	Big cities are less competitive than other places.	0	1	0	0.95	0	1	0	0.5	0	0.75	0.2	0.51	0	1
+327	Big cities are less competitive than other places.	Good work can be found no matter the applicants' education	0	0.95	0	1	0	1	0	0.75	0	0.5	0.2	0.51	0	1
+328	Children benefit from hanging around each other	Kids interact in schools with other kids.	0	0.7	0	0.6	0	1	1	0.6	0	0.6	3.1	1.04	0	0.7
+330	You can't benefit from speaking a second language.	It is possible to speak more than one language.	0	0.7	0	1	0	0.9	0	0.5	0	0.7	1.5	0.92	0	1
+332	An example of what machines can facilitate is communicating people together	Machines can successfully communicate with humans.	1	0.6	0	0.5	0	1	0	0.5	0	0.7	3.3	1.55	0	0.5
+334	Girls receive more attention in their studies.	Boys and girls are equally educated.	0	1	0	1	1	0.9	0	0.5	0	0.7	0.9	0.94	0	0.9
+336	Boys are less educated than girls.	A girl's school education depends on the country she grows up in.	0	0.9	0	1	0	1	0	0.9	1	0.9	1	0.89	0	1
+338	Many girls worldwide are provided with only basic schooling	Larger cities attract people with only minimal education.	0	0.9	0	1	0	1	0	0.7	0	0.9	0.6	1.02	0	1
+340	The absence of face-to-face social interaction promotes asocial behavior.	Face-to-face social interaction is important to avoid any asocial behavior issues which could be caused by new technologies	1	0.6	1	0.8	0	1	0	0.9	1	0.9	4	1	1	0.9
+342	A college degree is advisable when looking for a job in a highly competitive market.	In big cities, good jobs tend to be given to people with high educational degrees.	1	0.7	1	0.7	0	1	1	0.7	0	0.7	3.9	1.22	1	0.9
+344	The importance of technology in modern education is overrated.	Technology is not mandatory to improve education	1	0.8	0	0.6	0	1	0	0.5	0	1	2.8	1.47	1	0.6
+346	There are computer programs developed to play strategic games.	To be good at a strategy game, you need to think like a machine.	0	0.8	0	0.8	0	1	0	0.7	0	0.6	1.9	1.51	0	0.9
+348	Girls have a better education than boys in many countries	There are fewer girls in school than boys.	0	1	0	0.9	0	0.7	0	0.7	0	1	1.8	1.08	0	1
+350	Machines can communicate with people.	Machines are good in communicating.	1	0.6	1	0.7	0	1	1	0.7	0	0.7	3.6	1.2	1	0.7
+352	People's job prospects and their chances of getting a well-paid and interesting job in big cities depend on their educational achievements.	Asocial behavior develops with the use of technologies.	0	0.9	0	1	0	1	1	0.8	0	1	0.5	0.92	0	1
+354	Modern technology has no place in schools	Technology is very important to advance modern education	0	1	0	1	1	1	0	1	0	0.6	1	0.77	0	0.8
+356	In all countries, women are receiving better education than men.	Good education is not easily accessible for girls everywhere in the world.	0	1	0	1	1	0.8	0	0.7	0	0.8	1.4	1.28	0	1
+358	People with a high educational degree are more likely to find a good job.	In bigger cities it is harder to find a job.	0	0.9	0	1	0	1	1	0.7	0	1	1.4	0.92	0	1
+360	The most important part in modern education is discipline.	School education is not equally accessible for both boys and girls.	0	1	0	1	0	1	0	0.7	0	0.5	1	1	0	1
+362	Modern assistants like Alexa or Siri make it harder to access information.	Not having a smartphone with a personal assistant will waste hours upon hours of human lives on information gathering.	0	0.8	0	1	1	0.7	0	0.6	1	0.6	1.2	1.17	0	1
+364	Women are often disadvantaged regarding education.	School education is not equally accessible for both boys and girls.	1	0.7	0	0.7	0	1	0	0.9	0	0.5	3.4	0.92	1	0.9
+366	New apps and technologies improve our social skills and help people become better humans.	New technologies can only benefit society.	0	0.6	0	0.5	0	1	1	1	0	1	3.3	1.1	1	0.6
+368	Kids who do not go to school risk not to develop social skills.	School years are the period when kids learn how to socialize.	1	0.6	0	0.6	0	1	0	0.5	0	0.6	3.8	0.6	1	0.9
+370	Using new technologies can have negative impact on social life.	Technological progress might backfire in some undesired behaviors.	1	0.8	0	0.5	0	1	0	0.9	0	0.6	3.7	0.9	1	0.8
+372	Bi-lingual people have an advantage in life when it comes to communicating with more people	Humans can learn more than one language	1	0.8	0	0.7	0	1	1	0.9	0	1	1.5	1.12	0	0.9
+374	Home schooled children are missing out on a vital part of their development.	Children who are homeschooled are not socialized.	0	0.6	1	0.8	0	1	1	0.8	0	0.9	3.3	1.19	1	0.6
+376	Someone with the knowledge of a second language may benefit more than someone with no such knowledge in life.	Your life will be better if you learn a second language.	1	0.9	1	0.9	0	1	1	1	0	1	4	1.18	1	0.9
+378	Machines have a message to communicate.	Alexa and co are getting better and better in communication.	0	0.7	0	0.8	0	1	0	0.9	1	0.8	2.5	0.92	0	0.8
+380	Children do not communicate in schools anymore.	New technology makes people more social	0	1	0	1	0	0.8	0	0.5	0	1	0.6	0.92	0	1
+382	Life has improved for Peter Dimplestich ever since he switched from manual google searches in his browser to the much slower Google Assistant.	Access to information cannot be fast.	0	1	0	1	0	0.9	1	1	0	1	0.5	0.92	0	0.9
+384	In big cities, it is important to have a university degree, if you want to advance in your career.	School drop-outs have a harder time, finding attractive work opportunities.	0	0.6	0	0.6	0	1	1	0.6	0	0.9	2.8	1.4	0	0.7
+386	Virtual assistants help us find what we need.	Modern education does not deal with technology at all.	0	1	0	1	0	0.8	0	0.7	0	0.8	0.1	0.3	0	1
+388	Knowing a foreign language is considered a plus when you need to communicate with people or for many kinds of modern life jobs.	Life can be greatly improved by speaking foreign languages.	1	0.8	1	0.6	0	1	1	1	0	0.9	3.9	0.83	1	0.8
+390	Having a high level educational degree helps finding a good job.	Big cities offer good jobs.	0	1	0	0.8	0	1	1	0.7	0	1	1.1	0.7	0	1
+392	Technology is important.	In big cities, there are no good jobs.	0	1	0	1	0	1	0	0.8	1	0.7	0.3	0.9	0	1
+394	Children deal with other people almost everyday at school.	In schools there are many children.	0	0.6	1	0.55	0	1	1	0.85	0	1	2.4	1.16	0	0.7
+395	In schools there are many children.	Children deal with other people almost everyday at school.	1	0.55	0	0.6	0	1	0	1	1	0.85	2.4	1.16	0	0.7
+396	Technology is important.	Technology is important for modern education.	0	0.5	1	0.8	0	1	0	1	1	1	3.4	1.28	1	0.6
+398	Speaking more than one language has no benefits.	Applicants do not benefit from a multilingual education at job interviews.	1	0.9	0	0.6	0	1	0	1	1	0.9	3.2	0.87	0	0.6
+400	People who speak several languages are hired more easily	Unemployment rates among multilinguals are lower than those able to speak only a single language.	1	0.9	1	0.8	0	1	0	0.9	1	1	3.6	1.11	1	0.8
+402	Boys usually have the opportunities to get a good education everywhere.	There is no socializing at school.	0	1	0	1	0	1	1	0.6	0	0.9	0.1	0.3	0	1
+404	Humans might drink alcohol and drive cars.	Human drivers are less reliable than self-driving cars.	0	0.7	0	0.7	0	1	0	0.5	0	0.5	1.6	1.11	0	0.8
+406	In many countries, boys are less likely to get a good school education.	Boys are less educated than girls.	1	0.6	0	0.5	0	1	1	0.8	0	0.9	2.8	1.47	1	0.6
+408	New apps and technologies improve our social skills and help people become better humans.	Use of new technologies leads to less face-to-face social interactions.	0	0.9	0	0.9	0	0.5	1	0.9	0	1	1.3	1.35	0	0.9
+410	Go and chess are strategic games.	There are computer programs developed to play strategic games.	0	0.9	0	1	0	1	0	0.7	0	0.7	1.7	0.78	0	0.8
+412	Robots are able to talk to human beings as well as exchange information.	Machines communicate with people.	1	0.9	1	0.8	0	1	1	0.9	0	1	4.2	0.98	1	0.8
+414	Children are good at communicating with each other without going to school.	Children socialize at school.	0	0.8	0	0.9	0	0.9	1	0.8	0	1	2.1	1.14	0	0.9
+416	Landing a good job entitles the job seeker to have a higher education degree	It is essential to achieve a high educational degree for finding a good job in big cities.	1	0.6	0	0.6	0	1	0	0.89	1	0.8	4.3	0.64	1	0.8
+418	Everybody learns Latin.	Reading the Bible requires studying Latin.	0	1	0	1	0	1	0	1	1	0.7	1.6	1.43	0	1
+420	The bible is available in English language only	University students are likely to have a good salary after they graduate.	0	1	0	1	0	1	0	0.7	0	0.7	0.4	1.2	0	1
+422	Technology does not belong to education.	Education without technology is old-fashioned	0	1	0	1	1	0.8	0	0.9	0	0.8	1.6	1.11	0	0.9
+424	Going to school makes kids anti-social.	Children communicate.	0	0.9	0	1	0	0.7	1	0.7	0	1	1.4	1.56	0	1
+426	New technologies can replace face-to-face social interaction.	Antisocial behaviors can be linked to technology usage.	0	0.6	0	0.8	0	0.8	0	0.6	0	0.5	3.5	0.92	0	0.5
+428	Finding a good job in a big city can be difficult.	A high education degree is necessary for a good career	0	0.9	0	1	0	1	0	1	1	0.6	1.1	0.94	0	0.9
+430	It is good to learn a new language.	People benefit from leaning more languages.	1	0.8	1	1	0	1	0	1	0	0.5	4.2	1.17	1	0.9
+432	Better jobs could be found if having a university diploma.	Finding a good job in a big city can be difficult.	0	1	0	0.9	0	1	0	0.5	0	1	1.7	0.9	0	1
+434	It is easier to find a good job if you only know one language.	You have to speak 4 languages to get a good job.	0	1	0	1	1	1	0	0.9	0	0.8	1	0.77	0	1
+436	In big cities, there are no good jobs.	You can't find a good job if you have a higher degree.	0	1	0	0.9	0	1	0	0.9	1	0.8	1.2	0.98	0	1
+438	Communication is not human-specific.	Potrayals of socially inept humanoid robots in movies are disingenuous.	0	1	0	1	0	1	0	1	1	0.8	1.1	1.04	0	1
+440	New technologies lead to less direct social interaction.	New technologies can replace face-to-face social interaction.	1	0.7	0	0.5	0	1	0	0.9	1	0.6	3.9	1.37	1	0.8
+442	Nothing good comes from language learning.	Learning a second language is harmful in life.	0	0.6	1	0.8	0	1	0	0.9	1	0.8	3.3	1.42	1	0.9
+444	In contrast to human beings, robots are not capable of playing strategic games.	Most computer systems are better at playing strategic games than human beings.	0	1	0	1	1	1	0	1	0	1	2	1.67	0	0.9
+446	Self-driving cars are safe, humans aren't	Humans drink.	0	1	0	0.9	0	1	1	0.8	0	0.9	1.4	1.5	0	0.9
+448	Chess is not a strategic game.	Machines cannot play strategic games.	0	1	0	1	0	0.9	0	0.6	0	1	1	0.77	0	1
+450	The job market is more competitive in big cities	Finding good and well-paid jobs requires higher educations.	0	1	0	1	0	1	0	1	1	0.6	1.6	0.92	0	0.9
+452	Larger cities attract people with only minimal education.	Good work can be found no matter the applicants' education	0	0.7	0	1	0	0.9	0	0.5	0	0.6	1.4	1.43	0	1
+454	Humans who drink are not safe.	Cars are able to drive themselves better than humans	0	0.9	0	1	0	1	0	0.6	1	0.7	1.3	1.49	0	1
+456	Only monolingual people get good jobs.	To find a good job, it is beneficial to speak a second language.	0	0.8	0	1	1	1	0	0.9	1	0.6	1.2	1.25	0	0.8
+458	Being alone helps children in their everyday life.	Going to school isolates children.	0	0.8	0	1	0	1	1	0.6	0	0.9	1.8	0.98	0	0.9
+460	Several accidents with self-driving cars show that this technology is still a long way from development, and the need for research in this area is thus high.	Self-driving cars are safe, humans aren't	0	0.9	0	0.9	1	0.8	1	0.9	0	1	1.7	1.42	0	1
+462	Boys and girls learn how to behave with each other in school	Children communicate.	0	0.5	0	0.7	0	1	1	1	0	1	2.2	0.87	0	0.9
+464	Attending school enables children to learn how to interact with others.	Schools have impact on developing the social skills of kids.	1	0.9	1	0.8	0	1	1	0.8	0	0.8	4.5	0.5	1	1
+466	Today no one studies Latin.	Christian clergymen learn Latin.	0	1	0	1	1	0.8	0	1	1	0.8	1.5	1.36	0	1
+468	All Christian priests need to study Persian, as the Bible is written in Ancient Greek.	Quick access to information makes life more difficult.	0	1	0	1	0	1	1	0.7	0	1	0.3	0.9	0	1
+470	Girls get education in other countries.	There are places where girls don't get as good education as boys do.	0	0.9	0	0.6	0	0.8	0	1	1	1	1.3	0.78	0	0.9
+472	Being familiar with new technologies is not necessary in order to become successful in the job market.	Knowing how to use modern technologies is essential for finding a good job.	0	0.9	0	0.8	1	0.9	0	0.8	0	1	1	0.89	0	0.9
+474	A lack of success in looking for a job can be attributed, in part, to speaking just single language.	The knowledge of more languages raises your hirability.	1	0.9	1	0.8	0	1	1	0.7	0	0.8	3.9	0.94	1	0.8
+476	Lack of face to face social interactions may cause asocial behavior.	The absence of face-to-face social interaction promotes asocial behavior.	1	0.9	1	1	0	1	0	0.9	0	0.8	4.6	0.49	1	1
+478	Finding good and well-paid jobs requires higher educations.	Formal education helps when looking for enticing employment arrangements.	1	0.8	0	0.8	0	1	0	0.9	0	0.5	3.3	0.9	1	0.9
+480	There are several modern virtual assistants.	The quickest way to access information is by using an assistant.	0	0.9	0	0.9	0	1	0	0.8	1	0.9	2.4	1.11	0	0.8
+482	People can speak more than one language.	There are things that help you to find a good job.	0	1	0	1	0	1	0	0.5	0	0.8	0	0	0	1
+484	The level of school education depends on gender.	New apps and modern technology cannot provide you with the information you need.	0	1	0	1	0	1	0	0.8	1	0.9	0.1	0.3	0	1
+486	Getting information more quickly makes everyday life easier.	Virtual assistants are used more often in daily life matters than real assistants.	0	0.9	0	0.8	0	0.9	0	0.9	1	1	1.9	1.3	0	0.8
+488	Chess and Go are strategic games.	Strategy can be mastered by machines.	0	0.9	0	1	0	1	1	0.6	0	0.9	1	0.63	0	1
+490	People and machines don't communicate.	Brian, the computer, is an excellent conversationalist.	0	1	0	1	1	0.9	0	0.9	1	0.7	0.9	1.22	0	1
+492	Machines are good at chess.	Machines are good at devising strategies.	0	0.5	0	0.5	0	1	0	0.5	0	0.6	4.1	0.7	0	0.5
+494	Alexa and Cortana are means of fast access to information.	Everyday life is made easier because information is easily accessible.	0	0.6	0	0.9	0	1	1	0.7	0	0.8	2.2	0.87	0	0.8
+496	People are getting asocial caused by facebook!	Lack of social interaction leads to asocial behavior.	0	0.7	0	1	0	0.9	1	0.6	0	0.7	2.8	1.4	0	0.7
+498	Evaluations of some of the currently existing chatbots show that they are doing well in leading conversations with people.	Machines have a message to communicate.	0	0.6	0	0.6	0	1	1	0.9	0	1	2.1	1.64	0	0.7
+500	Socialization between kids does not happen at school.	Children who go to school are more socialized.	0	1	0	0.9	1	0.9	0	0.6	0	0.9	1.3	1.27	0	1
+502	Speaking more than one language is something to be ashamed of.	People learning a second language benefit from that ability	0	0.9	0	1	1	0.8	0	1	0	0.7	0.6	0.66	0	1
+504	Nowadays people do not meet each other in person as often.	The new technical possibilities have a negative impact on our social skills.	0	0.6	0	0.7	0	1	0	0.7	0	0.5	2.6	1.5	0	0.5
+506	People who speak more than one language could only land pretty bad jobs.	People speaking more than one language tend to find bad jobs.	1	0.9	1	0.6	0	1	0	0.7	0	0.9	4.4	0.92	1	0.9
+508	Computer driven cars are not safer.	Humans drink.	0	1	0	1	0	0.9	1	0.7	0	0.7	0	0	0	1
+510	Schools have impact on developing the social skills of kids.	When we use new technologies we forget some of the skills, which we previously learned from interacting with people.	0	0.9	0	1	0	1	0	0.9	1	0.6	0.9	1.04	0	1
+512	Chess and Go are a strategic games.	Chess and Go are strategic games.	1	0.9	1	0.8	0	1	0	0.9	0	0.7	4.9	0.3	1	1
+514	Good jobs can be found without the use of modern technology.	Most modern jobs are done better by people who can't use technology.	0	0.8	0	0.6	0	0.8	0	0.7	0	0.5	3.6	1.2	0	0.9
+516	Good education helps to get a good job.	Your educational level has an impact on your job opportunities.	1	1	1	0.9	0	1	0	0.9	1	0.8	3.7	1.1	1	0.9
+518	Chatting and playing with other people is important for kids.	It is easy for children to become friends with their classmates.	0	0.9	0	0.7	0	1	1	0.6	0	0.7	1.4	1.2	0	1
+520	It is very important to use technology in class.	In our modern education system, technology plays an essential role.	1	0.8	1	0.6	0	1	0	1	1	0.8	4.2	0.75	1	0.7
+522	Machines can't communicate.	People cannot speak to machines.	1	1	0	0.7	0	1	0	0.9	1	0.7	3.9	1.22	1	0.8
+524	One may find a job but not a good one without ability to use modern technologies.	Digital literacy is imperative for getting better job opportunities.	1	1	1	0.6	0	1	0	0.6	0	0.6	4.1	0.7	1	0.9
+526	Access to information cannot be fast.	Personalized digital assistants make it very difficult to access information.	0	0.7	0	0.9	0	1	0	1	1	0.9	2.4	1.5	0	0.8
+528	You can't find a good job in a big city without a high educational degree.	Work prospects in urban areas increase with higher education.	1	0.7	0	0.6	0	0.9	0	0.5	0	0.5	3.4	1.56	1	0.9
+530	There are computer programs built for the task to communicate with people.	Machines can communicate with people.	1	1	1	0.8	0	1	1	1	0	1	3.9	1.3	1	0.6
+532	Machines always lose when they play Go.	Machines cannot play strategic games.	0	0.8	1	0.6	0	0.7	1	1	0	1	2.5	1.69	0	0.7
+534	Technology plays a major part in providing good education	Constant interaction with other students increases socialization at school	0	0.9	0	0.9	0	1	0	0.9	1	0.6	1.1	1.22	0	1
+536	Alcohol decreases human car driving abilities.	Self-driving vehicles are more reliable than human beings.	0	0.9	0	0.9	0	1	0	0.7	0	0.6	1.9	1.22	0	0.8
+538	Going to school provide kids with constant interactions with others and therefore, it helps socializing kids.	Good education is not easily accessible for girls everywhere in the world.	0	0.9	0	1	0	1	1	0.7	0	1	0.2	0.4	0	1
+540	You must know how to use technology if you want to find a job.	It is difficult to find a job without the use of modern technologies.	1	0.9	1	0.65	0	0.9	0	0.8	0	0.6	4.4	0.8	1	0.95
+541	It is difficult to find a job without the use of modern technologies.	You must know how to use technology if you want to find a job.	1	0.65	1	0.9	0	0.9	0	0.6	0	0.8	4.4	0.8	1	0.95
+542	Good work can be found no matter the applicants' education	A high education degree is necessary for a good career	0	0.9	0	1	1	1	0	0.8	0	0.5	1.5	1.12	0	0.8
+544	Someone who speaks more than one language can find a good job easier than someone who speaks only one language.	A second language is important in a resume.	1	0.9	1	0.8	0	1	1	1	0	1	3.8	1.08	1	1
+546	Strategy can be mastered by machines.	As far as strategic games are concerned, machines are difficult to beat by humans.	1	0.6	0	0.5	0	1	0	0.9	1	0.8	3.7	0.46	0	0.6
+548	Most Christian clerics are unaware that they do not need to learn Latin in order to study the bible.	Latin can be learned to read the bible.	0	0.7	0	0.9	0	0.7	1	1	0	1	2.1	1.37	0	1
+550	Drunk cars pose a threat in traffic.	Sometimes humans drink and drive.	0	0.6	0	0.9	0	1	1	0.6	0	0.9	2	1.18	0	0.9
+552	Christians read the bible.	The bible is written in Latin	0	1	0	1	0	1	0	1	1	0.6	0.5	0.67	0	1
+554	Modern education does not deal with technology at all.	It is very important to use technology in class.	0	1	0	1	1	0.7	0	0.5	0	0.7	0.6	0.49	0	1
+556	Education nowadays relays on modern technology.	It is very important to use technology in class.	1	0.6	0	0.5	0	1	0	0.5	0	0.8	3.1	1.14	1	0.8
+558	A girl's school education depends on the country she grows up in.	It is harder for girls to get good school education	0	0.7	0	0.7	0	0.8	1	1	0	1	2.9	0.94	0	0.7
+560	All cars are self-driving.	Self-driving cars are almost never safer.	0	1	0	1	0	1	0	0.8	1	0.6	1.6	1.36	0	1
+562	Most job applications are written by hand.	It is always a plus to have learned to use modern technologies whatever job you do.	0	0.9	0	1	0	1	0	0.9	1	0.9	0.6	0.49	0	1
+564	People and computers cannot communicate.	Machines communicate with people.	0	0.9	0	1	1	1	0	0.7	0	0.9	1	1.18	0	1
+566	Good work can be found no matter the applicants' education	There are several modern virtual assistants.	0	1	0	1	0	1	0	0.5	0	0.7	0.1	0.3	0	1
+568	Cortana and Siri make us suffer.	Everyday life is made easier because information is easily accessible.	0	1	0	1	0	0.6	0	0.6	0	0.8	0.3	0.64	0	1
+570	Self-driving vehicles are more reliable than human beings.	Humans might drink alcohol and drive cars.	0	0.8	0	0.9	0	1	1	0.7	0	0.7	1.3	1.27	0	0.6
+572	People speaking more than one language can find better jobs.	More and more positions require at least two spoken languages.	1	0.6	1	0.6	0	1	0	0.5	0	0.7	3.5	1.12	1	0.7
+574	Life has improved for Peter Dimplestich ever since he switched from manual google searches in his browser to the much slower Google Assistant.	Live interaction with other people is improved when using new technologies, such as social networks or Skype.	0	0.9	0	0.9	0	1	1	0.6	0	1	1.2	1.47	0	0.9
+576	Everyday life is more difficult because of quickly accessible information.	The modern assistants make finding data slower.	0	0.8	0	0.9	0	0.8	1	0.7	0	0.7	1	1	0	1
+578	Quicker Access to information makes life worse.	Christian clergymen read the bible in English	0	1	0	1	0	1	0	1	0	0.5	0	0	0	1
+580	Interacting with others is not related to their social behavior	It is easy for children to become friends with their classmates.	0	1	0	1	0	0.9	0	0.8	0	0.6	1.2	0.98	0	1
+582	Education without technology is old-fashioned	Technology is essential to modern education.	1	0.6	1	0.8	0	1	0	0.7	0	0.7	3.2	1.6	1	0.9
+584	Access to information is paramount nowadays.	Virtual assistants help us find what we need.	0	0.6	0	0.9	0	1	0	0.8	1	0.6	1.2	1.33	0	0.8
+586	Interacting with other children makes kids asocial.	Cortana provides the user with unnecessary information.	0	1	0	1	0	1	0	1	0	0.7	0	0	0	1
+588	People who are willing to learn a new language make their daily lives much easier than others.	Knowing a foreign language is considered a plus when you need to communicate with people or for many kinds of modern life jobs.	0	0.5	0	0.7	0	1	0	1	1	1	3.9	0.7	1	0.7
+590	Growing up, people learn the rules of society from their experiences with others.	Children socialize by interacting with others.	0	0.5	0	0.5	0	1	1	0.6	0	1	2.7	1.1	0	0.5
+592	The bible is in Hebrew.	Real life social interaction develops people's social skills.	0	1	0	1	0	1	0	0.7	0	0.8	0	0	0	1
+594	Schools do not involve any interaction.	Socialization between kids does not happen at school.	1	0.8	1	0.6	0	1	0	1	1	0.9	4.3	0.9	1	0.8
+596	Driverless cars do not consume alcohol which in turn makes them much safer than normal drivers.	Self-driving cars don't drink.	1	0.9	0	0.7	0	1	1	1	0	1	3.9	1.04	1	0.8
+598	Christian clergymen read the Bible.	Christian clergymen gain some knowledge of Latin.	0	1	0	0.9	0	1	0	0.6	0	0.5	2.4	1.2	0	0.9
+600	New technologies have a negative influence on social behavior.	University students are likely to have a good salary after they graduate.	0	1	0	1	0	1	0	0.7	0	0.6	0	0	0	1
+602	Pupils do not need to learn about technology in order to receive a good education.	School is a place where children learn how to become sociable with other individuals.	0	1	0	1	0	1	0	0.9	0	0.7	0.8	1.17	0	1
+604	All around the world, girls have higher chance of getting a good school education.	Girls get a good school education everywhere.	0	0.7	0	0.6	0	1	1	1	0	0.9	4.7	0.46	1	0.8
+606	Nowadays, children use digital educational programs or apps for learning.	Modern education consists of many parts.	0	0.8	0	0.8	0	1	1	1	0	1	1.7	1.1	0	0.9
+608	People who are able to deal with modern technology have more chances of getting a well-paid job than others.	Tech-savvy people have an edge over luddites in the current work environment.	1	0.7	1	0.6	0	0.9	0	0.5	0	0.7	3.5	1.5	1	0.9
+610	Humans can drink and drive	Computer driven cars are safer.	0	1	0	0.9	0	1	0	1	0	0.7	0.9	1.3	0	1
+612	Men often have higher degrees than women.	Good education is not easily accessible for girls everywhere in the world.	1	0.6	0	0.6	0	1	0	0.8	1	0.6	2.8	1.17	0	0.6
+614	Self-driving cars don't consume alcohol, therefore they are more reliable than human drivers.	Human-driven cars are less safe than self-driving cars.	1	0.7	0	0.7	0	1	1	0.8	0	1	3.1	1.3	1	0.6
+616	Modern technology makes finding a good job more difficult.	Most job applications are written by hand.	0	1	0	1	0	0.9	0	0.7	0	0.7	1.1	0.94	0	1
+618	No one benefits from learning a second language in life.	Your life will be better if you learn a second language.	0	0.9	0	1	1	1	0	1	0	0.7	1.1	1.04	0	1
+620	Modern education is based on technology	Technology is very important to advance modern education	1	0.8	0	0.5	0	0.9	0	0.8	1	0.6	4.1	0.94	1	0.9
+622	Machines may be not good in doing tasks other than communicating with humans.	Machines can communicate with people.	1	0.9	0	0.6	0	1	1	0.7	0	0.8	3.3	1.49	0	0.7
+624	To enter the workforce it is required to have good technical skills	One may find a job but not a good one without ability to use modern technologies.	0	0.6	0	0.7	0	0.8	0	0.8	1	0.9	3.2	1.17	0	0.5
+626	Most modern jobs are done better by people who can't use technology.	In order to find a good job, one has to possess the ability to use modern technologies.	0	1	0	1	1	0.8	0	0.9	0	0.6	1.3	1.19	0	1
+628	Knowing more languages is prohibitive when looking for a job.	Good jobs are available to people who speak only one language	1	0.7	0	0.7	0	0.8	0	0.7	1	0.6	3.6	1.5	0	0.5
+630	In our modern education system, technology plays an essential role.	Modern education has technology as one of its fundamental components.	1	0.9	1	1	0	1	0	0.9	0	0.7	4.4	0.66	1	0.9
+632	Humans are safer drivers than computer-driven cars.	Alcohol is the main cause of traffic accidents.	0	1	0	1	0	0.8	0	0.8	1	0.6	0.3	0.46	0	1
+634	Face-to-face interaction can only be done through technology help	Face-to-face social interaction has no impact on asocial behavior.	0	1	0	1	0	1	0	0.9	0	0.7	1.8	0.98	0	1
+636	Being familiar with new technologies is not necessary in order to become successful in the job market.	You don't need the knowledge and skills of technologies in order to get high quality jobs.	1	0.7	1	0.6	0	1	0	0.9	0	0.8	4	1.34	1	0.7
+638	Drunk people are bad drivers.	Driverless cars do not consume alcohol which in turn makes them much safer than normal drivers.	0	0.6	0	0.6	0	1	0	0.9	1	1	2.7	1.27	0	0.7
+640	Machines are good at many tasks including playing strategic games	Machines are good at chess.	1	0.9	1	0.6	0	1	1	0.6	1	0.7	3.6	1.02	1	0.8
+642	Learning a foreign language can be expensive, especially if you take courses or pay for private tutoring.	Life cannot be improved by studying a foreign language.	0	1	0	1	0	1	1	0.6	0	1	0.9	0.3	0	0.9
+644	Interaction helps to socialize people.	Boys and girls learn how to behave with each other in school	0	0.6	0	0.5	0	1	0	0.9	1	0.8	2.2	1.54	1	0.6
+646	Good jobs do not require tech skills.	Digital literacy is imperative for getting better job opportunities.	0	1	0	0.9	1	0.9	0	1	1	0.7	2.1	1.51	0	0.9
+648	Live interaction with other people is improved when using new technologies, such as social networks or Skype.	Technology is very important to advance modern education	0	0.7	0	0.9	0	1	1	1	0	0.9	1.3	0.78	0	0.9
+650	Humans who drive should not drink.	Drunk cars pose a threat in traffic.	0	0.7	0	0.6	0	1	0	0.7	1	0.6	2.4	1.56	0	0.8
+652	Not knowing how to use a smartphone makes you less attractive for employers.	Technology is a requirement for some jobs.	0	0.5	1	0.6	0	1	1	1	0	0.9	2.8	1.33	1	0.6
+654	Latin is one way of reading the bible	The bible is written in Latin.	0	0.5	1	0.9	0	1	0	0.7	0	0.8	2.9	1.3	0	0.7
+656	Life is more fun if you know more languages	Bi-lingual people have an advantage in life when it comes to communicating with more people	1	0.6	0	0.5	0	1	0	0.9	1	1	3.3	1.1	1	0.7
+658	It is not possible for people and machines to exchange information	Potrayals of socially inept humanoid robots in movies are disingenuous.	0	0.9	0	0.8	0	0.9	0	1	0	0.5	1.2	1.17	0	1
+660	New technologies discourage face-to-face social interaction.	New technologies lead to less communication and human interactions.	1	0.8	1	0.9	0	1	0	0.7	1	0.6	4.4	0.66	1	0.9
+662	Being able to communicate in a second language improves your job prospects.	People who find good jobs are likely to speak more than one language.	1	0.7	1	1	0	1	0	0.6	0	0.7	4	1	1	0.6
+664	Modern technology increase the face-to-face social interaction.	New technologies lead to less direct social interaction.	0	0.9	0	1	1	1	0	0.5	0	1	1.8	1.47	0	0.8
+666	Using modern technology prevents people from interacting with others in reality.	New technologies lead to less direct social interaction.	1	0.9	1	0.8	0	0.9	1	0.7	0	0.9	3.7	0.9	1	0.9
+670	Modern technology gives us more opportunities to avoid antisocial behavior.	Ubiquitous virtual reality will further increase people's asocial tendencies.	0	1	0	0.9	1	0.6	0	0.9	0	0.5	1.6	1.36	0	1
+672	Finding relevant facts may be slower, when using search engines directly, instead of using more advanced solutions.	Cortana, Alexa and Siri can get and spread all information they want to.	0	0.8	0	1	0	0.9	0	0.5	0	0.5	1.3	1.27	0	0.9
+674	Asocial behavior is increased due to increased use of computer assisted communication.	Girls get a good school education everywhere.	0	1	0	1	0	1	1	0.8	0	0.9	0.3	0.9	0	1
+678	It is impossible for machines to communicate with people.	There are computer programs built for the task to communicate with people.	0	1	0	0.9	1	1	0	0.9	1	0.8	2	1.48	0	0.8
+682	Those with a high educational degree have fewer challenges in finding a good job in big cities.	University degrees provide better opportunities for professional realization in urban areas.	1	0.6	1	0.7	0	1	0	0.8	0	0.5	3.3	1.62	1	0.9
+686	Education does not benefit from new technology.	There are no other factors determining the quality of education other than the use of modern technology.	0	0.8	0	0.9	1	0.8	0	1	1	0.9	2.3	1.27	0	0.8
+688	Many Christians read a Latin bible.	The original Bible is in Latin.	0	0.8	0	0.5	0	1	0	0.6	0	0.5	2.5	1.12	0	0.8
+692	Only people can communicate with people.	Communication is not human-specific.	0	1	0	0.9	1	1	0	0.5	0	1	1.5	1.02	0	0.9
+694	Humans can learn more than one language	Life is enhanced by learning a second language.	0	1	1	0.6	0	1	0	0.8	0	0.6	3.4	1.28	0	1
+696	Machines can play strategic games.	Go and chess are strategic games.	0	1	0	0.9	0	1	0	0.9	1	0.8	1.7	1.27	0	1
+700	Technology is very important to advance modern education	Technology plays a major part in providing good education	1	0.6	1	0.8	0	1	0	1	0	0.8	4.1	1.22	1	1
+704	Go and chess are the only examples of card games, which are not strategic.	Chess and go are city-building games.	0	1	0	1	1	0.6	1	0.9	0	1	2.1	1.37	0	0.8
+706	Everyday life is easier if you have quicker access to information.	A digital assistant can be of use in every home	0	0.8	0	0.9	0	1	1	0.7	0	0.6	1.6	1.28	0	0.7
+710	You don't need other languages.	More languages you know ' better it is.	0	0.9	0	1	1	0.8	0	0.8	0	0.6	1.6	1.28	0	1
+712	It is not necessary to learn more than one language in life	There is more than one language.	0	0.6	0	0.9	0	0.9	1	0.7	0	0.9	1.3	0.78	0	1
+718	Real life social interaction develops people's social skills.	The lack of human interaction may be caused by too much technology.	0	0.9	0	0.9	0	1	0	0.8	0	0.7	1.5	1.2	0	1
+720	Computers do not know how to play Go	Machines suck at games.	0	0.7	1	0.7	0	1	1	0.9	0	1	3	1.34	0	0.5
+722	Quicker access to information makes our life easier.	There are several modern virtual assistants.	0	1	0	0.9	0	1	0	0.5	0	0.7	0.6	0.8	0	0.7
+724	There are no good or bad jobs.	With a high educational degree you can work in big cities.	0	1	0	1	0	1	0	1	1	1	0.4	0.92	0	1
+726	Sometimes humans drink and drive.	Humans can drink and drive	1	1	1	0.7	0	1	0	0.7	0	0.8	4.2	0.98	1	0.9
+728	In all countries on this planet, girls are not allowed to go to school and to get educated.	Gender inequality for having a good school education is a problem that can be seen in many countries	1	0.8	0	0.7	0	0.6	0	0.8	1	0.7	2.7	1.9	1	0.6
+730	Men are more likely to have enjoyed a good education, in many countries.	Many girls worldwide are provided with only basic schooling	0	0.5	1	0.7	0	1	0	0.6	0	0.7	1.8	1.72	0	0.6
+732	People speaking more than one language tend to find bad jobs.	Knowing more languages is beneficial when looking for a job	0	0.9	0	0.9	1	0.7	0	0.7	0	0.8	1	1.18	0	0.8
+734	Machines cannot play strategic games.	Chess and Go are not strategic games.	0	1	0	1	0	1	0	1	1	0.8	0.9	0.54	0	1
+736	Clergymen do not care for Bible translations.	Priests know how to read Latin	0	0.9	0	1	0	1	0	0.7	1	0.6	1.3	1.27	0	0.7
+738	You should learn how to use modern technology for work.	To find a good job people should utilize modern technologies	0	0.5	1	0.8	0	1	0	0.8	0	0.6	3.4	1.36	1	0.8
+740	It is difficult to beat a machine on a strategic game.	It is easy for machines to come up with strategies in games.	1	0.9	1	0.6	0	1	0	0.9	0	0.8	3.1	0.94	1	0.6
+742	A digital assistant can be of use in every home	Getting information more quickly makes everyday life easier.	0	0.7	0	0.7	0	0.9	0	0.6	0	0.7	1.8	1.54	0	1
+744	Digitalization improves social behavior by better chances for face-to-face communication.	Modern technology gives us more opportunities to avoid antisocial behavior.	0	0.5	0	0.6	0	1	1	0.8	0	1	3.8	0.6	1	0.8
+746	Technology has no place in modern education.	Technology is a quite unimportant part of education.	1	0.9	0	0.5	0	0.9	0	0.8	0	0.9	4.2	1.17	1	0.9
+748	Computers are built to interact with people.	Human-computer communication is getting better.	0	0.5	1	0.6	0	0.8	0	0.5	0	0.6	3.4	1.11	0	0.6
+750	Social behaviour is encouraged by new technologies.	New apps and technologies improve our social skills and help people become better humans.	1	0.7	1	0.8	0	1	0	1	1	1	3.4	1.28	1	0.8
+752	Most job applications are written digital.	Employers hire people who can use new technologies.	0	0.8	0	0.8	0	1	0	0.7	0	0.5	2.3	1.55	0	1
+754	Machines cannot play strategic games.	Chess and Go are a strategic games.	0	1	0	1	0	1	0	0.9	1	0.8	1.4	1.11	0	1
+756	Learning a second language won't get you anywhere in life.	People should strive to learn at least two languages, since it will come with great advantages.	0	0.9	0	1	1	0.9	0	0.9	1	0.8	2	1.61	0	1
+758	Asocial behavior is generated solely by psychological issues.	Boys usually have the opportunities to get a good education everywhere.	0	0.9	0	1	0	1	0	0.7	0	0.6	0	0	0	1
+760	Alexa and co are getting from bad to worse.	Machines can successfully communicate with humans.	0	1	0	1	0	0.6	0	0.8	0	0.7	0.8	1.08	0	1
+762	Machines make no difference when playing a strategic game.	It is difficult to beat a machine on a strategic game.	0	1	0	1	1	0.9	0	0.8	0	0.6	2.4	1.5	0	1
+764	Children become better at communicating with peers at school.	Children who go to school are more socialized.	1	0.9	1	0.9	0	1	1	0.8	0	0.9	4.4	0.49	1	0.9
+766	Human drinking in general makes the driving dangerous.	Alcohol decreases human car driving abilities.	1	0.8	1	1	0	1	0	0.7	0	0.5	3.8	1.08	1	0.9
+768	It is hard for machines to connect and communicate with each other let alone with humans	Computers can interact with humans.	0	1	0	1	1	0.7	1	0.8	0	0.8	1.3	1.19	0	1
+770	School is a place where children learn how to become sociable with other individuals.	Growing up, people learn the rules of society from their experiences with others.	1	0.6	0	0.6	0	1	0	0.6	0	0.7	2.1	0.83	0	0.6
+772	Face-to-face interaction leads to asocial behaviour.	Modern technology facilitates our life styles.	0	1	0	1	0	1	1	0.6	0	0.9	0.8	1.54	0	1
+774	Women are always better educated than men.	In the Western world more and more girls grow up with good education.	0	0.8	0	1	0	1	0	0.8	1	0.7	3	0.89	0	0.8
+776	Strategic games are too difficult for computers.	Computers can't beat humans in chess.	0	0.5	0	0.6	0	1	0	0.8	0	0.6	2.6	1.43	0	0.5
+778	Ability to use modern technology is a requirement for finding a good job.	It is always a plus to have learned to use modern technologies whatever job you do.	1	0.8	0	0.5	0	0.9	0	0.7	1	0.8	4	0.77	0	0.7
+780	When you go to school, you are forbidden to talk to other students and to interact with them.	In big cities, it is important to have a university degree, if you want to advance in your career.	0	1	0	1	0	1	0	0.7	1	0.7	0.1	0.3	0	1
+782	Alexa and co are getting better and better in communication.	Computers are able to communicate.	1	1	1	0.6	0	1	1	0.9	0	0.9	2.5	1.57	0	0.8
+784	The level of school education depends on gender.	Women have less chances to receive quality secondary education in some parts of the world.	0	0.6	1	0.8	0	1	0	1	1	0.9	2.9	1.22	1	0.6
+786	More languages you know ' better it is.	Learning a second language opens new opportunities in life	1	0.7	1	0.9	0	1	0	1	1	0.8	3.7	1.42	1	0.8
+788	Technology plays a major part in providing good education	Modern education relies heavily on technology.	1	0.8	1	0.8	0	1	1	0.6	0	1	4.7	0.46	1	1
+790	By using apps and modern devices our daily lives have become much easier than ever before.	Technology is important for modern education.	0	0.9	0	0.7	0	1	1	0.9	0	0.9	1.8	1.08	0	0.9
+792	More face-to-face social interaction lead to asocial behavior.	The importance of technology in modern education is overrated.	0	1	0	1	0	0.9	0	0.5	0	1	0.1	0.3	0	1
+794	Boys get better education than girls.	School education for girls is not well developed in many countries.	0	0.7	1	0.8	0	1	0	1	1	0.9	3.2	1.25	0	0.5
+796	Humans are safer drivers than computer-driven cars.	Cars cannot operate by themselves	0	1	0	0.8	0	0.7	1	0.8	0	0.9	1.5	1.28	0	1
+798	People from India tend to find no jobs, since they speak multiple languages well.	Good jobs require you to speak more than one language.	0	0.9	0	1	1	0.8	1	0.7	0	0.9	1.5	1.36	0	1
+800	The modern assistants make finding data slower.	Today's information flow is greatly facilitated by digital assistants.	0	0.8	0	0.9	1	0.9	0	0.9	1	0.6	1.3	0.78	0	0.9
+802	All Christian priests learn Arabic, in order to be able to read the Bible.	The Bible is written in Latin.	0	1	0	1	1	0.6	1	0.8	0	1	0.9	1.14	0	1
+804	Self-driving cars are dangerous.	Self driving cars do not drink.	0	1	0	1	0	0.8	0	0.9	0	0.8	2	1.41	0	1
+806	Technology is not useful at all.	Technology is essential to modern education.	0	1	0	1	1	0.9	0	1	1	0.8	1	0.77	0	1
+808	You will do better at your job search, if you learn a second language.	Good jobs require you to speak more than one language.	0	0.8	1	1	0	1	1	0.7	0	0.8	3.2	1.33	0	0.5
+810	Self-driving cars are not safe.	Self-driving cars are dangerous.	1	1	1	1	0	1	0	1	0	0.6	5	0	1	1
+812	Studying a second language greatly improves employability.	Someone who speaks only one language may also find a good job.	0	0.7	0	1	0	0.7	0	0.7	1	0.6	1.8	1.4	0	0.8
+814	No one benefits from learning a second language in life.	It is not necessary to learn more than one language in life	1	0.6	0	0.7	0	0.9	0	0.6	0	0.9	3.7	1.27	1	0.9
+816	New technologies have a negative influence on social behavior.	Technology is dangerous is misused.	0	0.7	0	0.7	0	1	1	1	0	0.9	2.1	1.04	0	0.7
+818	Happy people only speak one language.	You will receive no benefit if you learn a second language.	0	0.9	0	0.7	0	0.9	0	0.8	0	0.5	2.9	1.45	0	0.7
+820	I can get information from google faster than asking Cortana by itself.	Modern assistants make access to information slower.	0	0.7	0	0.5	0	1	1	0.8	0	1	3.1	1.37	1	0.8
+822	New technologies help us socialize with others.	New technology makes people more social	1	0.9	1	0.9	0	1	0	0.5	0	1	4.8	0.6	1	1
+824	Strategy games are less about fun and more about logic.	Strategic games are one example of what machines are good at	0	0.7	0	1	0	1	1	0.7	1	0.6	1.3	1	0	0.8
+826	Tech-savvy people have an edge over luddites in the current work environment.	Bad jobs do not require computer skills.	0	1	0	0.8	0	0.9	1	0.9	0	1	1.6	1.2	0	0.7
+828	Small cities do not exist.	In big cities, good jobs tend to be given to people with high educational degrees.	0	1	0	1	0	0.8	0	1	1	0.7	0.4	0.49	0	1
+830	Drinking does not influence driver safety.	Self-driving cars can be compared to humans.	0	1	0	1	0	0.9	0	0.8	0	0.5	0.6	0.92	0	1
+832	Speaking more than one language can be useful.	Languages are beneficial in life.	1	0.9	1	1	0	1	1	0.8	0	0.8	4.4	0.66	1	1
+834	People and machine can talk to each other.	Communication is not human-specific.	1	0.9	1	0.7	0	1	1	1	0	1	2.7	1.42	1	0.7
+836	Jobs in big cities request statistically higher degrees than in rural cities.	With a high educational degree you can work in big cities.	0	0.5	1	0.6	0	1	1	0.7	0	0.9	3.9	0.94	1	0.7
+838	You can't find a good job, if you can't use modern technologies.	All good jobs require the use of modern technologies.	1	0.8	1	0.7	0	0.9	0	0.7	0	0.8	4.5	0.5	1	1
+840	The bible is in Hebrew.	Bible is not in Latin.	1	0.9	0	0.8	0	1	1	0.7	0	1	2.7	1.35	0	0.9
+842	Children interact with each other during the school day.	Children become better at communicating with peers at school.	1	0.6	1	0.8	0	1	0	1	1	0.6	3.1	1.3	1	0.8
+844	Modern education relies heavily on technology.	Technology may be the most important part of education today.	1	0.7	1	0.6	0	1	0	0.7	1	0.7	3.5	1.57	1	1
+846	Children benefit from hanging around each other	In many countries, boys are less likely to get a good school education.	0	1	0	1	0	1	0	0.8	1	0.7	0.1	0.3	0	1
+848	The importance of girls' education varies from country to country	The level of school education depends on gender.	0	0.6	0	0.6	0	1	1	0.7	0	1	2	1.1	0	0.7
+850	Digitalization of the teaching and learning today is of great impact.	Modern education is based on technology	0	0.5	1	0.6	0	1	1	0.7	0	0.9	2.8	1.17	1	0.7
+852	You can be socialized without interacting with other people.	Kids who do not go to school risk not to develop social skills.	0	0.9	0	0.9	0	0.6	0	0.9	1	0.6	1.2	0.87	0	1
+854	Drunk driving is safe.	Humans who drink are the safest ones.	0	0.6	0	0.6	0	1	0	0.8	0	0.5	3.7	1.27	0	0.5
+856	People who can't use modern technologies are less desirable employees.	Good jobs are given to people able to use modern technologies.	1	0.9	1	0.7	0	1	0	0.5	0	0.9	3.5	1.63	1	0.8
+858	The higher educational degree a job seeker has, the better the job he or she can obtain	Latin can't be learned.	0	1	0	1	0	1	1	0.6	0	0.8	0.1	0.3	0	1
+860	Educating girls is not a priority in many places around the world.	Good school training is rarely available to women in many parts of the world.	1	0.6	1	0.8	0	1	0	0.8	1	0.6	2.5	1.5	1	0.8
+862	Good school training is rarely available to women in many parts of the world.	In many parts of the world girls are not educated properly.	1	1	1	0.6	0	1	1	0.8	0	1	4.4	0.66	1	0.9
+864	Employers refuse to give any good jobs to multilinguals.	Someone who speaks more than one language can find a good job easier than someone who speaks only one language.	0	1	0	0.9	1	1	0	1	0	0.5	1.2	1.33	0	1
+866	There is more communication through technology.	Face-to-face interaction leads to asocial behaviour.	0	0.9	0	0.8	0	1	0	0.8	1	0.7	1.1	1.3	0	1
+868	Modern technology increase the face-to-face social interaction.	Digitalization improves social behavior by better chances for face-to-face communication.	1	0.8	1	0.9	0	0.9	0	0.9	1	1	4.2	0.6	1	1
+870	No need for higher education to get a good job	Those with a high educational degree have fewer challenges in finding a good job in big cities.	0	0.9	0	0.9	1	0.7	0	1	1	0.8	1.9	1.64	0	0.9
+872	Reading newspapers is important to find a new good job	There are lots of good jobs available that don't use modern technologies.	0	0.9	0	1	0	1	0	0.5	1	0.6	1.4	1.28	0	0.6
+874	Learning languages is useless.	Life can be greatly improved by speaking foreign languages.	0	1	0	0.9	1	1	0	1	1	0.7	0.9	1.14	0	1
+876	People can connect easily with the help of machines	Brian, the computer, is an excellent conversationalist.	0	0.9	0	0.8	0	1	0	0.8	1	0.7	1	1.1	0	1
+878	Modern education is identical to ancient education.	Nobody gets educated in technological state-of-the-art and technological advancements nowadays.	0	0.9	0	1	0	1	0	0.8	1	0.8	1	0.89	0	0.9
+880	New technologies make people more miserable.	People using new technologies interact less face-to-face.	0	0.9	0	0.8	0	1	0	0.7	0	0.5	2.6	1.11	0	0.8
+882	Cortana, Alexa and Siri can get and spread all information they want to.	Our everyday life is hard because of lacking information.	0	1	0	0.9	0	1	1	0.7	0	1	1.1	0.83	0	1
+884	Machines have trouble communicating with humans.	People and machines don't communicate.	0	0.8	1	0.7	0	0.7	0	0.7	0	0.8	3.4	1.69	1	0.7
+886	Latin hasn't ever been necessary to read the Bible.	Children are good at communicating with each other without going to school.	0	1	0	1	0	1	0	0.8	0	0.6	0.3	0.9	0	1
+888	There are no advantages of two spoken languages.	Speaking more than one language is imperative today.	0	0.9	0	1	1	0.9	0	0.9	0	0.7	1.6	1.2	0	1
+890	There are places where girls don't get as good education as boys do.	There are countries where men are more likely to receive good education than women.	1	0.8	1	1	0	0.9	0	1	0	0.7	4.1	1.45	1	1
+892	Some priests read the bible in Latin	The bible is written in Latin.	0	0.6	0	0.5	0	1	0	0.7	0	0.5	2.5	1.2	0	0.7
+894	Not having a smartphone with a personal assistant will waste hours upon hours of human lives on information gathering.	There is no socializing at school.	0	1	0	1	0	1	1	0.7	0	0.9	0.1	0.3	0	1
+896	Not having a smartphone with a personal assistant will waste hours upon hours of human lives on information gathering.	Modern assistances provide fast access to information therefore providing an easier life	0	0.5	0	0.5	0	1	1	0.7	0	0.9	3	1.55	1	0.7
+898	Gender inequality for having a good school education is a problem that can be seen in many countries	A girl's school education depends on the country she grows up in.	1	0.6	1	0.7	0	1	1	0.7	0	1	3.1	1.04	1	0.8
+900	Today, girls have better access to education than ever before.	Compared to boys, girls have a lower chance of getting a good school education in many countries.	0	1	0	1	0	0.7	0	1	1	0.6	1.3	1.42	0	1
+902	Human-driven cars are less safe than self-driving cars.	Alcohol is the main cause of traffic accidents.	0	1	0	0.7	0	1	0	0.7	1	0.7	2.1	1.45	0	0.9
+904	Kids who go to school get more social by interacting with their colleagues	Children interact with each other during the school day.	1	1	1	0.6	0	1	0	0.5	0	1	4	1	1	1
+906	Machines are good at devising strategies.	Chess and Go are a strategic games.	0	1	0	0.9	0	1	0	1	1	0.6	0.4	0.66	0	1
+908	Technological progress might backfire in some undesired behaviors.	Use of new technologies leads to less face-to-face social interactions.	0	0.7	0	0.5	0	1	0	1	1	0.7	2.4	1.2	0	0.8
+910	People cannot speak to machines.	Only people can communicate with people.	0	0.7	1	0.7	0	1	0	0.9	0	0.7	3	1.55	0	0.6
+912	You don't need the knowledge and skills of technologies in order to get high quality jobs.	Knowledge of modern technology lower one's chances of finding a good job.	0	0.8	0	0.6	0	0.8	0	0.8	0	0.7	3.2	1.4	0	0.9
+914	Girls are better in school.	There is no country where boys get better education than girls.	0	1	0	1	0	0.9	0	0.9	1	0.7	2.2	1.4	0	0.7
+916	Languages are important for work.	Studying a second language greatly improves employability.	1	0.8	0	0.5	0	1	0	1	1	0.9	3.7	0.78	1	1
+918	In the past, people talked more to each other and were nicer to each other.	Lack of face to face social interactions may cause asocial behavior.	0	0.7	0	0.9	0	0.9	1	0.6	0	0.6	1.9	1.51	0	0.5
+920	Communications happens between people and machines.	People and machine can talk to each other.	1	0.9	1	0.7	0	1	0	0.7	0	0.8	5	0	1	1
+922	In bigger cities it is harder to find a job.	Good education helps to get a good job.	0	1	0	1	0	1	0	0.8	0	0.8	1.5	0.67	0	0.9
+924	People's job prospects depend on their gender and race.	Good connections and a large portion of luck are extremely important for getting a well-paid job.	0	1	0	1	0	0.8	0	0.9	1	0.7	1.1	1.45	0	1
+926	More than two languages are required for this job.	To find a good job, it is beneficial to speak a second language.	1	0.6	0	0.9	0	1	1	0.6	1	1	3.3	0.9	1	0.7
+928	Asocial behavior is increased due to increased use of computer assisted communication.	In the past, people talked more to each other and were nicer to each other.	0	0.7	0	0.6	0	1	1	0.7	0	0.7	1.5	1.57	0	0.9
+930	Antisocial behavior has never been linked to technology.	New technologies lead to less communication and human interactions.	0	0.9	0	0.9	1	0.8	0	0.6	1	0.8	1.8	1.4	0	0.7
+932	If you want to help your child socialize better, insist that he starts going to school early on.	Social behavior is learned at school.	1	0.7	1	0.9	0	1	1	0.9	0	1	3	1.18	0	0.6
+934	Cortana, Alexa and Siri are famous and known by everybody, because they are names of famous people.	Modern assistants such as Cortana, Alexa, or Siri speed up accessing to information.	0	0.9	0	1	0	1	0	0.9	0	0.7	1.6	1.36	0	1
+936	Technology is not important.	Modern education is identical to ancient education.	0	1	0	0.8	0	1	0	1	1	0.8	0.6	1.2	0	0.9
+938	It is necessary to use computers to find a job.	You should learn how to use modern technology for work.	1	0.8	0	0.6	0	0.9	0	0.7	0	0.6	3	1.1	1	0.6
+940	Technology is a very important element of educational programs today.	Education without technology is old-fashioned	1	0.6	1	0.8	0	1	0	0.5	0	0.8	2.8	1.66	1	0.8
+942	The bible is written in Latin.	Male Christian clerics have to learn Latin in order to understand the Bible.	1	0.8	1	0.8	0	1	0	1	1	0.9	3	1.34	0	0.5
+944	Work prospects in urban areas increase with higher education.	It is harder to find a good job in big cities.	0	0.7	0	0.9	0	0.7	1	0.6	0	1	1.1	0.83	0	0.9
+946	You have to speak 4 languages to get a good job.	A second language doesn't help you to find a job.	0	0.9	0	1	1	0.6	1	0.8	0	1	1	0.63	0	1
+948	The advantages of two spoken languages are great.	Second language has long lasting developmental benefits.	0	0.5	1	0.9	0	1	0	0.9	1	0.7	4	1.26	1	0.8
+950	More and more positions require at least two spoken languages.	Multilingualism can facilitate finding a good job	1	0.9	1	0.8	0	1	1	0.7	0	0.8	3.9	0.83	1	0.9
+952	Self-driving cars drink.	Human drivers are less reliable than self-driving cars.	0	1	0	1	0	0.9	0	0.9	1	0.7	1.3	1	0	1
+954	Machines communicate with people.	Computers can interact with humans.	1	0.8	1	0.9	0	1	0	0.9	0	0.6	4.7	0.64	1	0.9
+956	Kids never meet other children at school.	School is a place of violence and bullying.	0	1	0	1	0	0.7	0	1	0	0.5	1.1	0.94	0	1
+958	Good education is not easily accessible for girls everywhere in the world.	Boys are lucky to get good education.	0	1	0	0.7	0	1	1	0.9	0	0.9	2.1	1.45	0	0.8
+960	Technology is irrelevant to modern education.	Technology is important.	0	0.9	0	1	0	0.6	0	0.5	0	1	1.2	1.33	0	1
+962	In modern education, technology is something with is strictly excluded from schools' curricula.	Education nowadays relays on modern technology.	0	0.8	0	1	1	1	1	0.9	0	0.9	0.8	0.75	0	1
+964	Christian clergymen read the bible in English	Clergymen learn a dead language to read the bible.	0	0.9	0	0.9	1	0.7	1	0.6	0	0.7	1.6	1.2	0	1
+966	Children deal with other people almost everyday at school.	Going to school provide kids with constant interactions with others and therefore, it helps socializing kids.	0	0.5	0	0.5	0	1	0	1	1	1	3.6	1.43	1	1
+968	The most important part in modern education is discipline.	Technology is not important.	0	1	0	1	0	1	1	0.7	0	1	0.8	1.25	0	1
+970	Multilingual people have less chances to find a good job than monolingual ones	A lack of success in looking for a job can be attributed, in part, to speaking just single language.	0	0.7	0	0.9	1	0.9	0	0.9	1	0.6	1.5	1.12	0	0.8
+972	Technology is very often part of today's education.	Nowadays, children use digital educational programs or apps for learning.	0	0.5	1	0.9	0	1	0	1	1	1	3.7	1.19	1	0.8
+974	People and machines don't communicate.	Machines and people cannot communicate.	0	0.5	1	1	0	1	0	1	0	1	4.9	0.3	1	1
+976	Digital literacy is imperative for getting better job opportunities.	It is necessary to use computers to find a job.	1	0.6	1	0.9	0	0.9	1	0.9	0	0.8	3.4	1.56	1	0.7
+978	A high educational degree doesn't find you a good job.	Finding good and well-paid jobs requires higher educations.	0	1	0	1	1	0.8	0	0.8	1	0.6	2.6	1.5	0	0.9
+980	There are things that help you to find a good job.	Polyglots can find good jobs.	0	0.8	0	0.5	0	1	0	0.6	1	0.6	2	0.89	0	0.8
+982	Most Christian clerics are unaware that they do not need to learn Latin in order to study the bible.	Translating the bible is impossible, as failed attempts to translate it into Latin show.	0	0.8	0	1	0	0.6	1	0.6	0	0.6	1.1	0.94	0	1
+984	Chess and go are city-building games.	Computers cannot play chess and Go.	0	0.9	0	1	0	1	0	0.5	0	0.6	1.9	1.76	0	1
+986	Going to school does not provide constant interaction with others.	You can be socialized without interacting with other people.	0	1	0	0.9	0	1	0	0.5	0	0.8	1.7	0.64	0	0.9
+988	Girls get a good school education everywhere.	A girl's school education depends on the country she grows up in.	0	1	0	1	1	1	0	1	1	0.8	2.1	0.94	0	1
+990	With Cortana, Alexa or Siri computers learn to communicate with.	An example of what machines can facilitate is communicating people together	0	0.9	0	0.8	0	1	1	0.6	0	0.8	1.9	1.04	0	0.8
+992	Humans will drive safe if they drink.	Humans are the best drivers.	0	1	0	1	0	0.9	0	0.5	0	0.9	1.7	1	0	1
+994	If you know more languages, you have troubles finding good jobs.	A second language is important in a resume.	0	1	0	1	1	1	0	0.6	0	0.5	1.2	0.87	0	0.9
+996	Modern assistants like Alexa or Siri make information faster to access.	Retrieving information today is much easier if personalized digital assistants are used.	1	0.9	1	0.9	0	1	1	0.8	0	0.6	3.2	1.6	1	1
+998	Face-to-face social interaction has no impact on asocial behavior.	Digitalization leads to less personal interactions.	0	1	0	0.9	0	0.8	1	0.6	0	0.8	1.8	1.4	0	1
+1000	Girls have exactly the same schooling opportunities as boys everywhere in the world.	The importance of technology in modern education is overrated.	0	1	0	1	0	1	1	0.7	0	0.9	0.1	0.3	0	1
+1002	Good jobs may require more than one language.	You should learn another language if you are seeking a well-paying job.	1	0.7	1	1	0	1	0	1	1	0.7	4.3	1.19	1	1
+1004	Having a high educational degree is influential in finding a good job in a big city.	University students are likely to have a good salary after they graduate.	0	0.6	0	0.6	0	1	0	0.6	0	0.7	3.5	0.81	0	0.8
+1006	Virtual assistants are used more often in daily life matters than real assistants.	Everyday life is easier if you have quicker access to information.	0	0.7	0	0.8	0	1	1	0.8	0	1	2	1.18	0	1
+1008	School inhibits socialization.	Better jobs could be found if having a university diploma.	0	1	0	0.9	0	1	0	1	1	0.9	0.2	0.6	0	1
+1010	People benefit from leaning more languages.	Speaking more than one language is imperative today.	1	0.7	1	1	0	1	0	0.7	1	0.6	3.7	1.1	1	0.8
+1012	Only educational institutions can teach children social rules and norms.	Attending school has a negative impact on our social skills.	0	0.9	0	1	1	0.7	1	0.6	0	0.9	1.3	1	0	1
+1014	Latin is studied by Christian clergy.	If you know Latin, you can read the bible.	0	0.7	0	0.7	0	0.9	1	0.6	0	0.8	2.3	1.19	0	0.7
+1016	Self-driving cars can be compared to humans.	Self-driving cars are safe, humans aren't	0	0.9	1	0.6	0	0.5	0	1	0	0.6	1.9	1.51	0	1
+1018	School inhibits socialization.	Constant interactions with others socializes the kids.	0	0.6	0	1	1	0.7	0	0.9	1	0.7	1.2	0.75	0	0.7
+1020	People's job prospects and their chances of getting a well-paid and interesting job in big cities depend on their educational achievements.	Those with a high educational degree have fewer challenges in finding a good job in big cities.	1	0.8	1	0.8	0	0.8	1	0.7	0	1	3.7	1.19	1	0.9
+1022	Kids throughout the world are given equal opportunities to get an education	There are places where girls don't get as good education as boys do.	0	1	0	1	1	1	0	0.7	0	0.6	1.8	1.4	0	0.9
+1024	Polyglots can find good jobs.	You will do better at your job search, if you learn a second language.	0	0.5	0	0.5	0	1	0	0.6	1	0.7	3.6	1.28	1	0.8
+1026	Computers talk to people in a weird way.	Cortana does not understand simple tasks.	0	1	0	0.9	0	1	0	1	0	0.5	0.6	0.8	0	1
+1028	If you want to understand the Bible properly, you need to learn Latin.	Christian clergymen learn Latin.	0	0.5	0	0.9	0	1	0	0.5	0	0.9	2.4	1.11	0	0.6
+1030	Social behaviour is encouraged by new technologies.	Constant interaction with others has nothing to do with socializing kids.	0	1	0	1	0	0.9	0	0.8	0	0.5	1.7	1.49	0	1
+1032	With the advancement of technology, people are able to find information more easily.	Obtaining information easily is appreciated today	1	0.7	1	0.6	0	0.9	1	1	0	1	2.5	1.75	1	0.6
+1034	Without human interaction an asocial behavior is formed, usage of new technologies is one leading example to such behavior	Asocial behavior develops with the use of technologies.	1	0.7	0	0.5	0	1	1	1	0	0.9	4.1	1.04	1	1
+1036	Schools do not involve any interaction.	Home schooled children are missing out on a vital part of their development.	0	1	0	1	0	0.6	0	0.9	1	0.9	1.1	0.83	0	0.9
+1038	Retrieving information today is much easier if personalized digital assistants are used.	Alexa and Cortana are means of fast access to information.	1	0.7	1	0.8	0	1	1	0.6	1	0.6	3.1	1.14	1	0.7
+1040	The Bible is written in Latin.	One of the languages Christian priests often understand is Latin.	0	0.6	0	0.9	0	1	0	0.7	0	0.7	1.9	1.14	0	0.8
+1042	The educational degrees from girls are much lower than from boys.	Men are more likely to have enjoyed a good education, in many countries.	1	0.7	0	0.7	0	1	0	0.9	0	0.6	3.3	0.64	1	0.6
+1044	Technology is not useful at all.	Children who are homeschooled are not socialized.	0	1	0	1	0	1	0	1	1	0.8	0.6	1.28	0	1
+1046	It is easy for children to become friends with their classmates.	Children socialize at school.	1	0.6	0	0.7	0	1	1	0.9	0	0.8	3	1.18	0	0.5
